@@ -5,7 +5,7 @@
 class Redpanda < Formula
   desc "Redpanda CLI & toolbox"
   homepage "https://redpanda.com"
-  version "23.3.3"
+  version "23.2.23"
 
   on_macos do
     if Hardware::CPU.intel?
